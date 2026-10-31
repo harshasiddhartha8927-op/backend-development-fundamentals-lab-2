@@ -10,7 +10,7 @@
 
 ## Live Link
 
-**Deployment URL:** Not deployed yet.
+**Deployment URL:** (https://backend-development-fundamentals-lab-2-lpc0.onrender.com)
 
 ## Objective
 
