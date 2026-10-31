@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Name:** P.Harsha Siddhartha
+- **Name: P.Harsha Siddhartha
 - **Registration Number:** 252U1R9122
 - **Section:** CSE-GEN-AI 2B 111
 - **Course:** Backend Development Fundamentals
@@ -202,4 +202,3 @@ SQL injection by treating user input as data rather than executable SQL code.
 - Postman screenshots are stored in the `screenshots/` directory.
 - All five CRUD endpoints are tested using Postman.
 - The project is submitted through the course GitHub repository.
-"# backend-development-fundamentals-lab-2" 
